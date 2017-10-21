@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Data Catalog",
+        "description": "Metadata file describing  earthporn_top_posts_with_country.csv",
+        "keyword": ["catalog"],
+        "modified": "2017-10-17",
+        "publisher": "Diego Cepeda",
+        "contactPoint": "Diego Cepeda",
+        "mbox": "cepedd@rpi.edu",
+        "identifier": "1",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "",
+                "format": "application/json"
+            }
+        ]
+    },
+    {
+        "title": "EarthPorn Top Posts With Country",
+        "description": "The purpose of this data generation is to scrape the top posts from the subreddit /r/EarthPorn
+         and extract the locations of where the photographs were taken.",
+        "keyword": ["reddit","earthporn","locations"],
+        "modified": "2017-10-17",
+        "publisher": "Diego Cepeda",
+        "contactPoint": "Diego Cepeda",
+        "mbox": "cepedd@rpi.edu",
+        "identifier": "2",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "",
+                "format": "text/csv"
+            }
+        ],
+        "language": ["english"],
+        "references": ["",""],
+
+    }]
