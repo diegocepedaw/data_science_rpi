@@ -36,6 +36,6 @@
             }
         ],
         "language": ["english"],
-        "references": ["https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/titlescraper.py",""],
+        "references": ["https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/titlescraper.py","https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/requirements.txt"],
 
     }]
