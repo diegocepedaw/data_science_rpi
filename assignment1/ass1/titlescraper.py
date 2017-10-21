@@ -5,11 +5,11 @@ from geotext import GeoText
 from collections import Counter
 
 
-r = praw.Reddit(client_id='00n3o5l3fNO2fQ',
-                client_secret='Ob7wVK7onlpFAeuQJY2GtbyAzos',
-                password='52533105',
-                user_agent='testscript by /u/cepedad',
-                username='cepedad')
+r = praw.Reddit(client_id='',
+                client_secret='',
+                password='',
+                user_agent='',
+                username='')
 
 countries = []
 subreddit = r.subreddit('earthporn')

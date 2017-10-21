@@ -11,7 +11,7 @@
         "accessLevel": "public",
         "distribution": [
             {
-                "accessURL": "",
+                "accessURL": "https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/earthporn_top_posts_with_country_metadata.json",
                 "format": "application/json"
             }
         ]
@@ -19,7 +19,9 @@
     {
         "title": "EarthPorn Top Posts With Country",
         "description": "The purpose of this data generation is to scrape the top posts from the subreddit /r/EarthPorn
-         and extract the locations of where the photographs were taken.",
+         and extract the locations of where the photographs were taken. This collection was done as part of an assignment
+         for the Data Science class at RPI but was inspired by curiosity. Source code for the script used to collect data can be found in the refereces section. Required dependencies
+         and their versions can also be found in the refereces section.",
         "keyword": ["reddit","earthporn","locations"],
         "modified": "2017-10-17",
         "publisher": "Diego Cepeda",
@@ -29,11 +31,11 @@
         "accessLevel": "public",
         "distribution": [
             {
-                "accessURL": "",
+                "accessURL": "https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/earthporn_top_posts_with_country.csv",
                 "format": "text/csv"
             }
         ],
         "language": ["english"],
-        "references": ["",""],
+        "references": ["https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/titlescraper.py",""],
 
     }]
