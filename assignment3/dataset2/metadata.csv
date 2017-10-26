@@ -1,0 +1,11 @@
+﻿Label,Value
+ownership,"RPI, Yiqing Guo"
+date,17/10/2017 
+datasource,"worldbank, https://data.worldbank.org/data-catalog/world-development-indicators"
+data format,csv
+encoding,utf8
+data year,1960-2016
+"""Country_Code"" column data type","text, ISO 3166-1 standard"
+"""year"" column data type","int(11) DEFAULT NULL, 4 digit year from 1960-2016"
+"""gdp"" column data type","text, in usd"
+"""popolation"" column data type ",bigint(20) DEFAULT NULL

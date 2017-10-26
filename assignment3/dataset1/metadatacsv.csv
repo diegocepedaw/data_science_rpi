@@ -1,0 +1,10 @@
+﻿Label ,Value
+description,"CSV file containing the ISO 3166-1 alpha-2 country code of where the picture in the post was taken (Country), number of upvotes (Score), post id (ID), and post title (Title) of the top 1000 /r/EarthPorn posts at the time of collection. The purpose of this data generation is to scrape the top posts from the subreddit /r/EarthPorn and extract the locations of where the photographs were taken. This collection was done as part of an assignment for the Data Science class at RPI but was inspired by curiosity and exploration."
+modified,10/17/2017
+publisher,Diego Cepeda
+contactPoint,Diego Cepeda
+mbox,cepedd@rpi.edu
+accessLevel,public
+accessURL,https://github.com/diegocepedaw/data_science_rpi/blob/master/assignment1/ass1/earthporn_top_posts_with_country.csv
+format,text/csv
+language,english
